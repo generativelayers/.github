@@ -12,7 +12,7 @@ A governance middleware framework for BDI agents that use Large Language Models.
 <dependency>
     <groupId>com.generativelayers</groupId>
     <artifactId>generative-layers-core</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.5</version>
 </dependency>
 ```
 
